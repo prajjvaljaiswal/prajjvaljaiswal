@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prajjvaljaiswal
 - 👀 I’m interested in learning new intersting things
-- 🌱 I’m currently learning React and Flutter
-- 💞️ I’m looking to collaborate on any FrontEnd or flutter project  
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on any FrontEnd  
 - 📫 How to reach me text me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
